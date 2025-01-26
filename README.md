@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Desarrollador web y multimedia</p>
+<p align="left">Desarrollador web</p>
 
 ###
 
