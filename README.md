@@ -6,11 +6,11 @@
 
 ###
 
-<h2 align="left">Sobre mi</h2>
+<h2 align="left">Sobre mi:</h2>
 
 ###
 
-<p align="left">Soy un profesional en formación en desarrollo multimedia y web, con un enfoque en tecnologías front-end y con dominio en plataformas como WordPress y Divi. Con mi proyecto PixelSites, combino habilidades técnicas y creatividad para ofrecer soluciones web funcionales, modernas y adaptadas a las necesidades de cada proyecto.<br><br>📚 Aprendizaje continuo<br>Me caracteriza mi compromiso con el crecimiento profesional y personal. Estoy constantemente perfeccionando mis habilidades en diseño, programación y optimización web, y explorando nuevas herramientas para aportar valor a mis proyectos.<br><br>🎯 Objetivos profesionales<br>Mi visión es consolidarme como un desarrollador de software altamente capacitado, utilizando mi conocimiento para crear experiencias digitales impactantes y resolver desafíos tecnológicos. Busco proyectos que representen retos significativos y oportunidades para aprender.<br><br>💡 Habilidades destacadas<br><br>Desarrollo web con HTML, CSS, JavaScript, WordPress y Divi<br>Diseño y optimización de experiencias digitales<br>Creatividad aplicada a la solución de problemas tecnológicos<br>🚀 Siempre enfocado en la excelencia y la innovación.</p>
+<p align="left">Soy desarrollador multimedia y web, con un enfoque en tecnologías front-end y con dominio en plataformas como WordPress y Divi. Con mi proyecto PixelSites, combino habilidades técnicas y creatividad para ofrecer soluciones web funcionales, modernas y adaptadas a las necesidades de cada proyecto.<br><br>📚 Aprendizaje continuo<br>Me caracteriza mi compromiso con el crecimiento profesional y personal. Estoy constantemente perfeccionando mis habilidades en diseño, programación y optimización web, y explorando nuevas herramientas para aportar valor a mis proyectos.<br><br>🎯 Objetivos profesionales<br>Mi visión es consolidarme como un desarrollador de software altamente capacitado, utilizando mi conocimiento para crear experiencias digitales impactantes y resolver desafíos tecnológicos. Busco proyectos que representen retos significativos y oportunidades para aprender.<br><br>💡 Habilidades destacadas<br><br>Desarrollo web con HTML, CSS, JavaScript, WordPress y Divi<br>Diseño y optimización de experiencias digitales<br>Creatividad aplicada a la solución de problemas tecnológicos<br>🚀 Siempre enfocado en la excelencia y la innovación.</p>
 
 ###
 
